@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Mayank <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, Myself Pranav Anand<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+ Science+and+Artificial+Intelligence+Student;Competitive+Programmer;Expert+on+Codeforces;5+Kyu(green)+on+AtCoder;Always+learning+new+things">
+<!--     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+ Science+and+Artificial+Intelligence+Student;Competitive+Programmer;Expert+on+Codeforces;5+Kyu(green)+on+AtCoder;Always+learning+new+things"> -->
   </a>
 </p>
 <br>
@@ -20,10 +20,10 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am currently in my pre-final year, studying Computer Science Engineering and Technology at the Bennett University, Greater Noida.
-- :technologist: I love using Software as a solution for every Problem.
-- :computer: I am a competitive programmer at Codeforces, Atcoder, GFG, Leetcode.
-- :student: I’m currently studying about Computer Science and Technology.
+- :school: I am in my pre-final year of studying Computer Science Engineering and Technology at Bennett University, Greater Noida.
+- :technologist: I love using software to solve every problem.
+- :computer: I am a competitive programmer at GFG and Leetcode.
+- :student: I’m currently studying Computer Science and Technology.
 - :nerd_face: Always learning new things.
 <br>
 
@@ -31,20 +31,19 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/mayankbansal818?locale=en"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	&emsp;
-	<a href="https://leetcode.com/u/Mayankax/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://leetcode.com/u/_pranav_1/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	&emsp;
-	<a href="https://www.geeksforgeeks.org/user/user_r8cy79eojfc/"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="GFG"/></a>
+	<a href="https://www.geeksforgeeks.org/user/wfbbt/"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="GFG"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:mayankbansal818@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:pranav.pa45@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
-	<a href="https://github.com/Mayankax"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/pranavanand07"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/mayank-bansal-a73a74255/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="www.linkedin.com/in/pranav-anand8"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -55,10 +54,10 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+<!--   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
+  </a>  -->
+<!--   &emsp; -->
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
@@ -80,7 +79,7 @@
   </a> 
   &emsp;
   &emsp;
-   <a href="https://streamlit.io/" target="_blank"> 
+<!--    <a href="https://streamlit.io/" target="_blank"> 
      <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
    </a>
   &emsp;
@@ -90,7 +89,7 @@
    &emsp;
     <a href="https://nodejs.org/en" target="_blank"> 
      <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
-   </a>
+   </a> -->
    &emsp;
      
 </p>
@@ -133,9 +132,9 @@
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+<!--     <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/atcoder-%235B4638.svg?style=plastic&logo=atcoder&logoColor=white" /></a>
+    <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/atcoder-%235B4638.svg?style=plastic&logo=atcoder&logoColor=white" /></a> -->
     
  
 </p>
