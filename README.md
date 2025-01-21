@@ -130,7 +130,7 @@
   &emsp;
     <a href="https://www.geeksforgeeks.org/user/wfbbt/"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="GFG"/></a>	
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/u/_pranav_1/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
   &emsp;
 <!--     <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
@@ -141,18 +141,7 @@
 
 ### <picture> <img src="https://camo.githubusercontent.com/85f7dabbf65dde763829ac24c5c1482eef57a53039a1667a353b04ba1030299d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73" width="50px"> </picture> Frameworks
 
-<p align="center">
-  &emsp;
-<!--     <a href="#"><img src="https://img.shields.io/badge/GurobiPy-blue.svg?logo=gurobi&logoColor=white"></a>
-&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Qiskit-purple.svg?logo=qiskit"></a>
-&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Dwave-Systems-grey.svg?logo=dwavesystems&logoColor=white"></a>
-  &emsp; -->
-    <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white"></a>
-<!--   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Chainlit-000000?style=plastic&logo=chainlit&logoColor=white"></a> -->
-</p>
+
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
