@@ -80,7 +80,7 @@
   &emsp;
   &emsp;
   <a href="https://www.w3schools.com/js/" target="_blank"> 
-     <img alt="Javascript" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
+     <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   </a>
   &emsp; 
 <!-- 	 <a href="https://react.dev/" target="_blank"> 
