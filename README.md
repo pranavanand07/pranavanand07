@@ -174,7 +174,7 @@
       <td style="width: 50%;">
         <a href="https://github.com/pranavanand07/Image_captioning" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://repository-images.githubusercontent.com/684656350/a88afc2b-c0c2-440c-806e-45dd19d672fb" alt="DBMS Using C" style="width: 100%; height: auto;">
-          <p align="center"><b>Stock Price Pridiction</b></p>
+          <p align="center"><b>Image Captioning</b></p>
         </a>
       </td>
     </tr>
