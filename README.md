@@ -166,19 +166,19 @@
   <table style="width: 80%; margin: 0 auto;">
     <tr>
       <td style="width: 50%;">
-        <a href="https://github.com/Mayankax/Cinephiles" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/Mayankax/Cinephiles/blob/main/CinePhile.png" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
-          <p align="center"><b>Movie Recommender System</b></p>
+        <a href="https://github.com/pranavanand07/Sentiment_Analysis" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://camo.githubusercontent.com/af6d1852b5fad2894cacc29678363df035d3c6005a3364ac33cb5181b6b65d7f/68747470733a2f2f696d657269742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30372f776861742d69732d73656e74696d656e742d616e616c797369732e6a7067" alt="Sentiment Analysis" style="width: 100%; height: auto;">
+          <p align="center"><b>Sentiment Analysis</b></p>
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/Mayankax/Stock-Price-Prediction" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://plus.unsplash.com/premium_photo-1682310075673-b408eb1ca6fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJhZGluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="DBMS Using C" style="width: 100%; height: auto;">
+        <a href="https://github.com/pranavanand07/Image_captioning" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://repository-images.githubusercontent.com/684656350/a88afc2b-c0c2-440c-806e-45dd19d672fb" alt="DBMS Using C" style="width: 100%; height: auto;">
           <p align="center"><b>Stock Price Pridiction</b></p>
         </a>
       </td>
     </tr>
-    <tr>
+<!--     <tr>
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/Financial-Analysis-using-Signal-Proceessing-Tools" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
@@ -190,8 +190,8 @@
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
           <p align="center"><b>Pairs Trading</b></p>
         </a>
-      </td>
-    </tr>
+      </td> -->
+<!--     </tr> -->
   </table>
 </div>
 
@@ -205,9 +205,6 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazzsterq&theme=tokyonight_duo" alt="jazzsterq" /></p>
-
-</details>
   
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
@@ -228,16 +225,11 @@
 
 ----
 	
-[![An image of @jazzsterq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jazzsterq)](https://holopin.io/@jazzsterq)
- 
-</details>
+
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jazzsterq&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@jazzsterq's Holopin board](https://holopin.io/api/user/board?user=jazzsterq)](https://www.holopin.io/@jazzsterq#)
 	
 </details>
